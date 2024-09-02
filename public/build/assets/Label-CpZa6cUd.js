@@ -1,0 +1,1 @@
+import{j as r,G as s}from"./app-4a17Pub4.js";import{C as e}from"./ColorSwatch-HXcgr9nk.js";import{T as m}from"./Text-BR9LnClf.js";function f({name:o,color:t,size:a=10,dot:p=!0}){return r.jsxs(s,{gap:5,my:2,wrap:"nowrap",children:[p===!0&&r.jsx(e,{color:t,size:a}),r.jsx(m,{fz:a,tt:"uppercase",c:t,fw:500,children:o})]})}export{f as L};
